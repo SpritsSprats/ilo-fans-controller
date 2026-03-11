@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center"> 🎉 Thank you so much for the <code>1.000+</code> container pulls! 🎉 </h3>
+<h3 align="center"> 🎉 Thank you so much for the <code>10.000+</code> container pulls! 🎉 </h3>
 
 > ℹ **NOTE:** The v1.0.0 is a **complete rewrite** of the tool, so any feedback is appreciated!<br>
 > If you find any bug or have any suggestion, please [open an issue](https://github.com/alex3025/ilo-fans-controller/issues). Thanks! 😄
